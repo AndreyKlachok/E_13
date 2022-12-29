@@ -1,0 +1,23 @@
+{
+  "name": "e13",
+  "version": "1.0.0",
+  "description": "bibaboba",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Andrey K.",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
